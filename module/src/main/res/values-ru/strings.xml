@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Обратный отсчет</string>
+    <string name="hello1">Привет из фрагмента 1</string>
+    <string name="hello2">Привет из фрагмента 2</string>
+    <string name="hello3">Привет из фрагмента 3</string>
+    <string name="action_start">Старт</string>
+    <string name="action_stop">Стоп</string>
+
+</resources>
